@@ -6,8 +6,8 @@ body{
 }
 #backgroud{
     position:absolute;
-    height: 997px;
-    width: 1349,5px;
+    height: auto;
+    width: auto;
     background: url(https://i.imgur.com/TnbWIuT.jpg?3);
     background-size:contain;
 }
